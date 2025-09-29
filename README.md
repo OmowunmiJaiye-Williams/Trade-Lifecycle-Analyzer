@@ -5,6 +5,11 @@
 ## Executive Summary
 This project delivers a operational risk framework that identifies settlement inefficiencies and quantifies financial exposure. By analyzing 10,000+ simulated trades, the solution pinpoints high-risk counterparties, isolates problematic instrument types, and provides actionable intelligence to reduce operational costs and trapped capital.
 
+## Dashboard Review
+<img width="1313" height="734" alt="image" src="https://github.com/user-attachments/assets/e8726579-ef6d-4084-bf98-4c1317279e86" />
+
+*Interactive Power BI dashboard providing real-time visibility into settlement performance, counterparty risk, and financial exposure.*
+
 ## Business Impact Delivered
 - $741M: Total value of delayed settlements uncovered.
 - $163K/day: Daily cost of delays, justifying resource focus.
